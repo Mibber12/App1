@@ -1,4 +1,4 @@
 == README
 
-I made this app as an intro to the Python workshop organised by Django girls. 
+I made this app as an intro to a RoR workshop.
 
